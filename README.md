@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Zahra Byanka. But call me "Byan" instead. I'm an informatic engineering student who passionate in web developer Tmi: the "paspamresmagang" is my tittle because i'm beatrix's main in mobile legend hehehehehe
-nn
+## Hi there 👋 I'm Zahra Byanka. But call me "Byan" instead. 
+
+I'm an informatic engineering student who passionate in web developer Tmi: the "paspamresmagang" is my tittle because i'm beatrix's main in mobile legend hehehehehe
 <!--
 **paspamresmagang/paspamresmagang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
