@@ -5,8 +5,6 @@ I'm an informatic engineering student who passionate in web developer and tech s
 
 Tmi: the "paspamresmagang" is my title because i'm beatrix's main on mobile legend hehehehehe
 
-[![hi](https://github-profile-trophy.vercel.app/?username=paspamresmagang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🧠 Languages & Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
