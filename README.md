@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Zahra Byanka. But call me "Byan" instead. 
+## Hi there 👋 I'm Zahra Byanka. But call me "Byan" or "Zahra" instead. 
 
-I'm an informatic engineering student who passionate in web developer 
+I'm an informatic engineering student who passionate in web developer and tech stack.
 
 
 Tmi: the "paspamresmagang" is my title because i'm beatrix's main on mobile legend hehehehehe
